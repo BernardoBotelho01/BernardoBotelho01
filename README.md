@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Hello 👋, I'm Bernardo! A passionate Software Engineering student in Brazil.
+        Hello 👋, I'm Bernardo! A passionate Software Engineering student in Brazil.
 
   - 🌱 I'm currently in the second period of Software Engineering at Unifan in the state of Goiás, in the city of Aparecida de Goiânia<img align="center" alt="html5" src="https://img.shields.io/badge/ Edx-193A3E?style=for-the -badge&logo=edx&logoColor=white" />
 
