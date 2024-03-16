@@ -18,4 +18,4 @@
 </p>
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=BernardoBotelho&how_icons=true&theme=gotham)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=BernardoBotelho&show_icons=true&theme=gotham)
