@@ -3,7 +3,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello world</h1></summary>
 </div>
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+
 <!-- Presentation -->
 <p>
         Hello 👋, I'm Bernardo! A passionate Software Engineering student in Brazil.
