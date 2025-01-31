@@ -1,32 +1,89 @@
-<!--title-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello world</h1></summary>
-</div>
+# 👨🏻‍💻 Bernrado Botelho
 
-<!-- Presentation -->
+**`Future Back-End Develope`**
+
+My name is Bernardo, I'm from Luzilândia-PI and I currently live in Aparecida de Goiânia-GO. I am studying the 4th period of Software Engineering and, at the same time, I am taking a technical course in Internet Information Technology in the EAD modality. I'm passionate about technology and I'm looking for my first job in the area!
+
+---
+
+### 🤖 Languages ​​and Technologies
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Spring"
+    title="Spring" 
+    width="30px" 
+    style="padding-right: 10px;" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
+/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br/>
+<br/>
+
+---
+### 📊 Estatísticas
+
 <p>
-        Hello 👋, I'm Bernardo! A passionate Software Engineering student in Brazil.
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-  - 🌱 I'm currently in the fourth period of Software Engineering at Unifan in the state of Goiás, in the city of Aparecida de Goiânia<img align="center" alt="html5" src="https://img.shields.io/badge/ Edx-193A3E?style=for-the -badge&logo=edx&logoColor=white" />
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-  - 🔭 I'm looking for my first job opportunity. My dream is to one day work with AI.
 </p>
-### 🧰 Languages and Tools
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<br />
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Imagem">
-</p>
-
-<!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=BernardoBotelho01&show_icons=true&theme=radical)
-
